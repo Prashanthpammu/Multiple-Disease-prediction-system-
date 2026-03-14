@@ -1,0 +1,38 @@
+features 
+------------------------
+performance  (speed)
+memory effieciency
+element wise operation
+data type 
+functionality
+multidimentional support
+broadcasting
+ease of use 
+ 
+-----------------------------------------------------
+
+
+NumPy arrays
+-------------------------
+USe fast 
+Uses less memory
+supported natively (vectorized ops)
+homogenious  (all elements asme type)
+supports many mathematical functions 
+yes ('ndarray supports matrics)
+yes (eg, add scaler to array)
+slight learning cureve
+
+------------------------------------------------------
+
+python lists 
+--------------------------
+slower (interpreated in python used more memory
+Need loops or list comprehensive 
+heterogeneous (mixed types all neddde)
+Limited to basic operations
+ not built in needs nesting 
+ not supported directly very beginner-friendly
+
+
+Next generation financial thread detection system project assign 
